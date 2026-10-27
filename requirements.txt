@@ -1,0 +1,4 @@
+mcp[cli]>=1.2.0
+aliyun-log-python-sdk>=0.9.0
+python-dotenv>=1.0.1
+pydantic>=2.7.0
